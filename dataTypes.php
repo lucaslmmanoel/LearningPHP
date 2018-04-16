@@ -7,7 +7,7 @@
     <title>Datatypes</title>
 </head>
 <body>
-
+<h1>Data Types</h1>
     <!-- Tipos de Dados utilizando o PHP -->
 <?php 
 // String Type
